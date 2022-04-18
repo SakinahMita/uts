@@ -1,0 +1,15 @@
+Djikstra Algorithm yang mencermintkan korelasi antara pertemanan dalam facebok 
+
+buat data matrix
+
+                    likes               comment   	          share
+John 		4		101			8
+Rudi		2		302			10
+Shinta	          50		430 			45
+Dodi		8		106			9
+
+Implementasinya yakni : 
+John ke like : 1		John ke comment : 1 		John ke share :1
+Rudi ke like : 1		Rudi ke comment : 1		Rudi ke share : 1
+Shinta ke like : 1	Shinta ke comment : 1		Shinta ke share : 1
+Dodi ke like :1		Dodi ke comment: 1		Dodi ke share : 1
